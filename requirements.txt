@@ -4,3 +4,5 @@ opencv-python-headless
 numpy
 pandas
 ultralytics
+matplotlib
+sqlite3-binary
