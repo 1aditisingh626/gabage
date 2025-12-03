@@ -1,0 +1,8 @@
+streamlit==1.39.0
+pillow
+pandas
+numpy
+opencv-python-headless
+ultralytics
+sqlite3-binary
+python-dotenv
