@@ -1,8 +1,7 @@
-streamlit
+streamlit==1.32.0
 pillow
 opencv-python-headless
 numpy
 pandas
-ultralytics
+ultralytics==8.2.50
 matplotlib
-sqlite3-binary
